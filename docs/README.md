@@ -1,0 +1,48 @@
+# BrewDocs — Table of Contents
+
+Use the table of contents below to find the topic you are looking for.
+You can also use the sidebar on the left to jump directly to any page.
+
+---
+
+## TizenBrew
+
+TizenBrew is the modular platform that makes all of these mods possible.
+
+- [Overview](tizenbrew/README.md) — What TizenBrew is and how it works
+- [Installation](tizenbrew/Installation.md) — Installing TizenBrew on your Samsung TV
+- [Module System](tizenbrew/Modules.md) — Installing modules and writing your own
+- [Building & Resigning](tizenbrew/Building.md) — Rebuilding and resigning the app package
+
+## TizenBrew Mods
+
+- [TizenTube](tizentube/README.md) — Ad-free, sponsor-free YouTube for Samsung TVs
+- [TizenPortal](tizenportal/README.md) — Universal browser shell for Tizen OS
+  - [Usage Guide](tizenportal/Usage.md) — Day-to-day usage and remote-control reference
+- [TizenBrowse](tizenbrowse/README.md) — Ad-free browsing mod for Samsung TVs
+- [TFlix](tflix/README.md) — Netflix-like mod for Cineby.gd on Samsung TVs
+- [HyperTizen](hypertizen/README.md) — Hyperion / HyperHDR Ambilight capturer for Tizen TVs (Tizen 6.5+)
+- [TwitchTB](twitchtb/README.md) — Ad-free Twitch mod with 7TV emotes for Samsung TVs
+- [PrimeVideoTB](primevideotb/README.md) — Ad-blocking and enhanced Amazon Prime Video for Samsung TVs
+- [ArtGalleryTB](artgallerytb/README.md) — Multi-museum art slideshow for Samsung TVs
+- [BrewBridge](brewbridge/README.md) — Real-time JSON data-transfer bridge for TizenBrew
+
+## Media & Apps
+
+- [Jellyfin on Tizen](jellyfin/README.md) — Free open-source media server (TizenBrew module + standalone installers)
+- [Moonlight on Tizen](moonlight/README.md) — NVIDIA GameStream / Sunshine client (Chrome/WASM for Tizen 5.5+, NaCl for older TVs)
+
+## Related & Other Projects
+
+- [TizenTube Cobalt](tizentubecobalt/README.md) — TizenTube for Android / Google TV (not a TizenBrew module)
+- [Tizen Community Packages & Other Projects](other-projects/README.md) — community bundles, independent ports, failed projects
+
+## BrewDocs
+
+- [BrewDocs](brewdocs/README.md) — Installing BrewDocs itself as a TizenBrew module
+
+## Support
+
+- [FAQ](FAQ.md) — Frequently asked questions
+- [Troubleshooting](Troubleshooting.md) — Step-by-step fixes for common errors
+

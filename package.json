@@ -1,0 +1,40 @@
+{
+  "name": "brewdocs-chromium47",
+  "appName": "BrewDocs C47",
+  "version": "1.0.0-c47.1",
+  "description": "A comprehensive wiki for all things TizenBrew related",
+  "packageType": "app",
+  "appPath": "dist/brewdocs.html",
+  "keys": [
+    "ColorF0Red",
+    "ColorF1Green",
+    "ColorF2Yellow",
+    "ColorF3Blue",
+    "ChannelUp",
+    "ChannelDown"
+  ],
+  "author": "Axel Nanol",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misbeliever/brewdocs-chromium47"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "node scripts/check-compat.cjs"
+  },
+  "devDependencies": {
+    "acorn": "^8.15.0",
+    "marked": "^17.0.3"
+  },
+  "private": true,
+  "files": [
+    "dist",
+    "LICENSE",
+    "COMPATIBILITY.md"
+  ],
+  "engines": {
+    "node": ">=22.18"
+  },
+  "type": "module"
+}
